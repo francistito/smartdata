@@ -22,7 +22,6 @@
 
 ## database Configuration
 
-Change the memory limit in php.ini file
 DB_CONNECTION=pgsql
 DB_HOST=127.0.0.1
 DB_PORT=5432

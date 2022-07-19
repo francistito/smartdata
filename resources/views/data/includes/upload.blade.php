@@ -109,10 +109,7 @@
 
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <p>Download <span class="excel_template">
-                    <a class="import" target="_blank" style="margin-top: 40px;" href="{!! url('assets/vmg/template/new_employees_template.xlsx') !!}"
-                       download>@lang('sample template')</a>
-                </span>:</p>
+                                
                                     </div>
                                 </div>
                             </div>
